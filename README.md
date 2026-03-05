@@ -1,4 +1,4 @@
-📌 Task Manager (Java Console Application)
+**Task Manager (Java Console Application)**
 Description
 
 The Task Manager is a simple Java console application designed to help users organize and manage tasks efficiently. It allows users to add, view, update, and delete tasks in a straightforward text-based interface.
@@ -7,15 +7,15 @@ This application is ideal for beginners learning Java, as it demonstrates core p
 
 Features
 
-✅ Add new tasks
+Add new tasks
 
-✅ View all tasks
+View all tasks
 
-✅ Update task details
+Update task details
 
-✅ Delete completed or unnecessary tasks
+Delete completed or unnecessary tasks
 
-✅ Simple and easy-to-use text interface
+Simple and easy-to-use text interface
 
 Technology
 
